@@ -21,9 +21,6 @@ git clone https://github.com/hanaDemma/EDA-week0-.git
 3. Run the Streamlit App: After installing the dependencies, you can run the app locally:
      streamlit run app.py
 
-Streamlit Dashboard for Solar and Wind Data Analysis
-This project is a Streamlit dashboard designed to analyze and visualize data related to solar radiation, temperature, wind direction, and wind speed. The app allows users to upload CSV files, explore data trends, and visualize various components such as hourly and monthly averages, wind direction distributions, and correlation matrices for solar and temperature data.
-
 Contributing
 If you’d like to contribute to this project, feel free to open a pull request or submit issues for bug fixes or improvements. Contributions are welcome!
 
